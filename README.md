@@ -8,9 +8,7 @@ Este repositório reúne exercícios e projetos desenvolvidos utilizando HTML, c
 
 ## Estrutura dos arquivos
 
-- [`index.html`](https://github.com/GiovanniJorge/HTML/blob/main/index.html): Página principal do projeto, exemplo de estrutura básica em HTML.
-- [`style.css`](https://github.com/GiovanniJorge/HTML/blob/main/style.css): Folha de estilos associada à página principal.
-- [`script.js`](https://github.com/GiovanniJorge/HTML/blob/main/script.js): Script JavaScript para interatividade simples com a página.
+- [`Trivia Game`](https://github.com/GiovanniJorge/HTML/blob/main/Trivia%20Game): Jogo de perguntas estilizado com elementos responsivos.
 
 Além disso, o repositório inclui:
 - [`.gitattributes`](https://github.com/GiovanniJorge/HTML/blob/main/.gitattributes): Configuração de atributos Git
