@@ -97,4 +97,3 @@ Giovanni Jorge — repositório principal: [GiovanniJorge/html-mimo](https://git
 Contato
 -------
 Problemas, dúvidas ou sugestões podem ser abertas como issues no repositório ou enviadas via perfil do GitHub.
-```
