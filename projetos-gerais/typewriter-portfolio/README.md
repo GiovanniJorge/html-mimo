@@ -2,7 +2,7 @@
 
 ![Preview do projeto](preview.png)
 
-Demo online: [https://giovannijorge.github.io/html-mimo/projetos/typewriter-portfolio/](https://giovannijorge.github.io/html-mimo/projetos/typewriter-portfolio/)
+Demo online: [https://giovannijorge.github.io/html-mimo/projetos-gerais/typewriter-portfolio/](https://giovannijorge.github.io/html-mimo/projetos-gerais/typewriter-portfolio/)
 
 Descrição
 --------
