@@ -2,7 +2,7 @@
 
 ![Preview do projeto](preview.png)
 
-Demo online: [https://giovannijorge.github.io/html-mimo/projetos/caesar-cipher/](https://giovannijorge.github.io/html-mimo/projetos/caesar-cipher/)
+Demo online: [https://giovannijorge.github.io/html-mimo/projetos-gerais/caesar-cipher/](https://giovannijorge.github.io/html-mimo/projetos-gerais/caesar-cipher/)
 
 Descrição
 --------
