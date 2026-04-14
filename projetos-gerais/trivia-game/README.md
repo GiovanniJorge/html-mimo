@@ -2,7 +2,7 @@
 
 ![Preview do projeto](preview.png)
 
-Demo online: [https://giovannijorge.github.io/html-mimo/projetos/trivia-game/](https://giovannijorge.github.io/html-mimo/projetos/trivia-game/)
+Demo online: [https://giovannijorge.github.io/html-mimo/projetos-gerais/trivia-game/](https://giovannijorge.github.io/html-mimo/projetos-gerais/trivia-game/)
 
 Descrição
 --------
