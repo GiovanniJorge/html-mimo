@@ -2,7 +2,7 @@
 
 ![Preview do projeto](preview.png)
 
-Demo online: [https://giovannijorge.github.io/html-mimo/projetos/rick-and-morty/](https://giovannijorge.github.io/html-mimo/projetos/rick-and-morty/)
+Demo online: [https://giovannijorge.github.io/html-mimo/projetos-gerais/rick-and-morty/](https://giovannijorge.github.io/html-mimo/projetos-gerais/rick-and-morty/)
 
 Descrição
 --------
