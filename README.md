@@ -179,5 +179,5 @@ Contribuições são bem-vindas! Se deseja adicionar um novo projeto ou melhorar
 Este repositório utiliza a licença MIT — consulte o arquivo `LICENSE` na raiz.
 
 ## Autor / Contato
-**Autor:** Giovanni Jorge  
-**Repositório:** https://github.com/GiovanniJorge/html-mimo  
+Autor: Giovanni Jorge  
+Repositório: https://github.com/GiovanniJorge/html-mimo  
