@@ -9,7 +9,7 @@ Projetos relacionados ao curso "HTML" da Mimo — coleção organizada de exerc�
 
 ## Badges
 - Licença: MIT (ver arquivo LICENSE)
-- Linguagens: ![HTML](https://img.shields.io/badge/HTML-37%-orange) ![CSS](https://img.shields.io/badge/CSS-35.2%-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-27.8%-yellow)
+- Linguagem: HTML (37%), CSS (35.2%), JavaScript (27.8%)
 
 ## Sumário
 - [Visão geral](#visão-geral)
