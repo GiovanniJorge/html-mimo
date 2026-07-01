@@ -9,7 +9,6 @@ Projetos relacionados ao curso "HTML" da Mimo — coleção organizada de exerc�
 
 ## Badges
 - Licença: MIT (ver arquivo LICENSE)
-- Linguagem: HTML (37%), CSS (35.2%), JavaScript (27.8%)
 
 ## Sumário
 - [Visão geral](#visão-geral)
@@ -177,13 +176,8 @@ Contribuições são bem-vindas! Se deseja adicionar um novo projeto ou melhorar
 - Avaliar acessibilidade com ferramentas como [Axe DevTools](https://www.deque.com/axe/devtools/) ou [Lighthouse](https://developers.google.com/web/tools/lighthouse).
 
 ## Licença
-Este repositório utiliza a licença MIT — consulte o arquivo `LICENSE` na raiz para mais detalhes.
-
----
+Este repositório utiliza a licença MIT — consulte o arquivo `LICENSE` na raiz.
 
 ## Autor / Contato
 **Autor:** Giovanni Jorge  
 **Repositório:** https://github.com/GiovanniJorge/html-mimo  
-**GitHub:** https://github.com/GiovanniJorge
-
-Para dúvidas, sugestões ou relatos de problemas, abra uma [issue](https://github.com/GiovanniJorge/html-mimo/issues) no repositório.
