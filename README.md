@@ -10,6 +10,7 @@ Projetos relacionados ao curso "HTML" da Mimo — coleção organizada de exerc�
 
 ## Badges
 ![Licença](https://img.shields.io/github/license/GiovanniJorge/c-unaerp?style=flat-square)
+![Projetos](https://img.shields.io/badge/quantidade-4%20projetos-blue?style=flat-square)
 
 ## Sumário
 - [Visão geral](#visão-geral)
