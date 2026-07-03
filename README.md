@@ -28,6 +28,7 @@ Este repositório reúne pequenos projetos em HTML, CSS e JavaScript que demonst
 Top-level:
 ```text
 ├── .gitattributes
+├── .gitignore
 ├── LICENSE
 ├── README.md
 └── projetos-gerais/            # Projetos diversos, exercícios e desafios
